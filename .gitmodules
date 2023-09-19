@@ -1,3 +1,6 @@
 [submodule "Learning-Java"]
 	path = Learning-Java
 	url = git@github.com:WasikAhmed/Learning-Java.git
+[submodule "Java-Swing"]
+	path = Java-Swing
+	url = git@github.com:WasikAhmed/Java-Swing.git
